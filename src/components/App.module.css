@@ -1,0 +1,9 @@
+.container {
+    width: 600px;
+    padding: 28px;
+ }
+ 
+ p {
+    margin: 10px;
+    font-size: 26px;
+ }
